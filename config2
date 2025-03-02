@@ -1,0 +1,18 @@
+var multiConfig = {"THISROOM":"hallowed@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["salome","darkson","village","mausoleum","courtyard","tavern"],"defaultView":"salome"}
+
+var roomstuff = {"rooms":{
+
+"salome":{"rName":"Salome's Home","backgroundImage":"https://soi-hallowed.hyperchat.com/salomesbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-hallowed.hyperchat.com/Herhouse.jpg><br>Welcome to Salome's Home<br></center>","roombottom":""},
+
+"darkson":{"rName":"Dark Sun Manor","backgroundImage":"https://soi-hallowed.hyperchat.com/darksunbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-hallowed.hyperchat.com/DarkSunManor.jpg><br>Welcome to Dark Sun Manor<br></center>","roombottom":""},
+
+"village":{"rName":"Village Streets","backgroundImage":"https://soi-hallowed.hyperchat.com/streetsbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-hallowed.hyperchat.com/Streets.jpg><br>Welcome to the Village Streets<br></center>","roombottom":""},
+
+"mausoleum":{"rName":"The Mausoleum","backgroundImage":"https://soi-hallowed.hyperchat.com/cemetaryback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-hallowed.hyperchat.com/Mausolum.webp><br>Welcome to the Mausoleum<br></center>","roombottom":""},
+
+"courtyard":{"rName":"The Courtyard","backgroundImage":"https://soi-hallowed.hyperchat.com/grassback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-hallowed.hyperchat.com/courtyards.png><br>Welcome to the Courtyard<br></center>","roombottom":""},
+
+"tavern":{"rName":"The Tavern","backgroundImage":"https://soi-hallowed.hyperchat.com/thetavernbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-hallowed.hyperchat.com/taverntopUSE.jpg><br>Welcome to The Tavern<br></center>","roombottom":""},
+
+
+}}
