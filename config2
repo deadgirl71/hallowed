@@ -1,4 +1,4 @@
-var multiConfig = {"THISROOM":"hallowed@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["salome","darkson","village","mausoleum","courtyard","tavern"],"defaultView":"salome"}
+var multiConfig = {"THISROOM":"hallowed@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["salome","darkson","village","mausoleum","courtyard","tavern", "forest"],"defaultView":"salome"}
 
 var roomstuff = {"rooms":{
 
@@ -14,5 +14,6 @@ var roomstuff = {"rooms":{
 
 "tavern":{"rName":"The Tavern","backgroundImage":"https://soi-hallowed.hyperchat.com/thetavernbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-hallowed.hyperchat.com/taverntopUSE.jpg><br>Welcome to The Tavern<br></center>","roombottom":""},
 
+"forest":{"rName":"The Veiled Forest","backgroundImage":"https://soi-hallowed.hyperchat.com/theveiledforrestback.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-hallowed.hyperchat.com/forveiledforest.jpg><br>Welcome to The Veiled Forest<br></center>","roombottom":""},
 
 }}
